@@ -30,7 +30,7 @@ Visit NomadBunk (Deployment link coming soon)
 - NomadBunk considers users, offering faster and cheaper delivery from local vendors.
 
 ## Author
-- [@Randy Kipkurui](https://github.com/randy-kip)
+[Randy Kipkurui](https://github.com/randy-kip)
 
 ## License
-MIT (https://github.com/randy-kip/nomad-bunk/blob/main/LICENSE.md)
+[MIT](https://github.com/randy-kip/nomad-bunk/blob/main/LICENSE.md)
