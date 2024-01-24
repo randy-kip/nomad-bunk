@@ -6,11 +6,16 @@ import {
 } from "react-router-dom";
 import App from './App.jsx'
 import './index.css'
+import Header from './components/App/Header.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <App />,
+  },
+  {
+    path: "/head",
+    element: <Header />,
   },
 ]);
 
